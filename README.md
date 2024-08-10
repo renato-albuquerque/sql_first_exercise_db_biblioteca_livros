@@ -12,6 +12,7 @@ Instrutora: [NayaraWakweski](https://github.com/NayaraWakewski) <br>
 - Criar o banco de dados: biblioteca (Através da interface gráfica).
 
 <br>
+
 ### 2ª Etapa
 - Criar a tabela: livros.
 ```
@@ -34,6 +35,7 @@ SELECT * FROM public.livros;
 ![screenshot](image-01.png)
 
 <br>
+
 ### 3ª Etapa
 - Inserir valores na tabela: livros.
 ```
@@ -52,3 +54,9 @@ SELECT * FROM public.livros;
 
 - Visualização <br>
 ![screenshot](image-02.png)
+
+## Meus Contatos
+
+- Business Card - [Renato Albuquerque](https://rma-contacts.vercel.app/)
+- Linkedin - [renato-malbuquerque](https://www.linkedin.com/in/renato-malbuquerque/)
+- Discord - [Renato Albuquerque#0025](https://discordapp.com/users/992621595547938837)
