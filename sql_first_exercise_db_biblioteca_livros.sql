@@ -1,6 +1,6 @@
 -- Exercício 01, aula 01.
 
--- 1ª etapa, foi criado o banco de dados: biblioteca.
+-- 1ª etapa, criar do banco de dados: biblioteca.
 
 -- 2ª etapa, criar a tabela: livros.
 
