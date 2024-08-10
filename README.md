@@ -2,6 +2,6 @@
 
 Desenvolvimento de Primeiro Projeto de Banco de Dados com SQL/PostgreSQL.
 
-Instituição: Digital College Brasil (Fortaleza/CE)
-Curso: Data Analytics (Turma 18)
-Instrutora: [NayaraWakweski](https://github.com/NayaraWakewski)
+Instituição: Digital College Brasil (Fortaleza/CE) <br>
+Curso: Data Analytics (Turma 18) <br>
+Instrutora: [NayaraWakweski](https://github.com/NayaraWakewski) <br>
