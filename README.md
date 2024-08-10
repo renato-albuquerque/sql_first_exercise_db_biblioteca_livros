@@ -9,8 +9,9 @@ Instrutora: [NayaraWakweski](https://github.com/NayaraWakewski) <br>
 ## Etapas de Desenvolvimento
 
 ### 1ª Etapa
-Criar o banco de dados: biblioteca (Através da interface gráfica).
+- Criar o banco de dados: biblioteca (Através da interface gráfica).
 
+<br>
 ### 2ª Etapa
 - Criar a tabela: livros.
 ```
@@ -29,5 +30,25 @@ CREATE TABLE IF NOT EXISTS public.livros (
 SELECT * FROM public.livros;
 ```
 
-- Visualização
+- Visualização <br>
 ![screenshot](image-01.png)
+
+<br>
+### 3ª Etapa
+- Inserir valores na tabela: livros.
+```
+INSERT INTO public.livros (titulo, autor, ano_publicacao, genero) VALUES 
+    ('Dom Quixote', 'Miguel de Cervantes', 1605, 'Romance'),
+    ('1984', 'George Orwell', 1949, 'Ficção Distópica'),
+    ('O Senhor dos Anéis', 'J.R.R. Tolkien', 1954, 'Fantasia'),
+    ('Crime e Castigo', 'Fiódor Dostoiévski', 1866, 'Romance'),
+    ('Orgulho e Preconceito', 'Jane Austen', 1813, 'Romance');
+```
+
+- Checar valores inseridos na tabela: livros.
+```
+SELECT * FROM public.livros;
+```
+
+- Visualização <br>
+![screenshot](image-02.png)
