@@ -12,8 +12,7 @@ Instrutora: [NayaraWakweski](https://github.com/NayaraWakewski) <br>
 Criar o banco de dados: biblioteca (Através da interface gráfica).
 
 ### 2ª Etapa
-Criar a tabela: livros.
-
+- Criar a tabela: livros.
 ```
 CREATE TABLE IF NOT EXISTS public.livros (
     id serial NOT NULL,
@@ -24,3 +23,11 @@ CREATE TABLE IF NOT EXISTS public.livros (
     CONSTRAINT livros_pkey PRIMARY KEY (id)
 );    
 ```
+
+- Checar as colunas e tipos de dados que foram criados.
+```
+SELECT * FROM public.livros;
+```
+
+- Visualização
+![screenshot](image-01.png)
