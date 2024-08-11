@@ -6,6 +6,8 @@ Instituição: [Digital College Brasil](https://digitalcollege.com.br/) (Fortale
 Curso: Data Analytics (Turma 18) <br>
 Instrutora: [NayaraWakweski](https://github.com/NayaraWakewski) <br>
 
+<br>
+
 ## Etapas de Desenvolvimento
 
 ### 1ª Etapa
